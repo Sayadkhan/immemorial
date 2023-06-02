@@ -26,7 +26,7 @@ const NotFound = () => {
       <div className="img-2" ref={leftImgRef}>
         <img
           src="https://images.pexels.com/photos/5808388/pexels-photo-5808388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-          alt="Woman showing retro photo camera and holding blooming flower"
+          alt="Woman showing retro camera and holding blooming flower"
         />
       </div>
       <div className="headline-2" ref={rightHeadlineRef}>

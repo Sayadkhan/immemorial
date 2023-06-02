@@ -16,5 +16,5 @@ export const useSmoothScroll = () => {
     }
 
     requestAnimationFrame(raf);
-  }, []);
+  });
 };

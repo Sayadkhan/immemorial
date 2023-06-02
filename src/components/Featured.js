@@ -25,7 +25,7 @@ const Featured = ({ minHeight = false }) => {
           <span>90's Telephone</span>
           <img
             src="https://images.pexels.com/photos/2587464/pexels-photo-2587464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt="Photo of Woman in Denim Jacket Holding Red Telephone"
+            alt="Woman in Denim Jacket Holding Red Telephone"
           />
           <span className="left-shutter" ref={featuredLeftShutter}></span>
         </div>
